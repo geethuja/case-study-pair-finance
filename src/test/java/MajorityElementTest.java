@@ -1,4 +1,4 @@
-import org.example.MajorityElement;
+import org.pair.finance.MajorityElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
